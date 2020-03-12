@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjetPetitsCheveaux</string>
+    <string name="plateau">plateau</string>
+    <string name="todo">TODO</string>
+    <string name="play">Play</string>
+    <string name="rules">Rules</string>
+    <string name="exit">Exit</string>
+    <string name="textRegle" style="text-align: center;">"      Rules
+        This game is a 4 player game. Each player owns 4 pieces representing horses. At the beginning, all horses are in their stables. Each player has a specific color for their stable and their horses : red, green, blue or yellow. To win a game, one player needs to end the race by running on the track with all of his 4 horses. It is impossible to have 2 horses on the same cell. If the horse already in the cell is not in the same color, this one replace the other horse and the other horse goes back to his stable. If the horse in the cell is the same color, the player can't play his first horse and has to play the other horse.
+                Game process
+        To start the race one player has to roll the dice to get a 6. If a player hit 6, he can take one horse from the stable and put it on the beginning cell. Each dice roll, the player can choose one of his horse on the track to move it forward. A cell can be used only by one horse. After rolling the dice,if a cell is already occupied by an enemy horse, the player can replace the horse by his horse and put the other horse back to his stable. If the horse on the cell is the same color, the player can only move the horse ahead of the other. Everytime a player hits a 6 with the dice, he can take a horse on the track or move forward a horse already on the track. He can play again by rolling the dice. If a horse makes a full lap, he needs to pass 6 special cell. Each cell has a number that goes from 1 to 6. To go on the first cell, the player need to hit 1 with the dice. For the second cell, hit 2, until the cell 6 where he end the race with this horse. If a player end the race with 4 of his horses he wins the game." </string>
+</resources>
